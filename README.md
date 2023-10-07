@@ -6,6 +6,7 @@ Hardware Changes from Bumpy 2.0 Project:
 - Changed pinout of the SWD/UART pins so that all SWD related pins are on top and all UART & power pins are on bottom
 - Changed form factor and created an enclosure out of a cover PCB and 3d printed spacers.
 - Changed resonator to an equivalent option in a different package
+- Changed STM32 to a different package of the same product (for sourcing purposes at the time of designing)
 <br>
 <br>
 <p align="center">
